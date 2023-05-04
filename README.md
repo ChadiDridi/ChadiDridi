@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning ,Deep Learning ,Computer Vision and Natural Language Processing**
 
-- 🌱 I’m currently learning **Angular,ReactJS,Computer Vision, Google Cloud Platform,Flutter,Kotlin**
+- 🌱 I’m currently learning **Angular,ReactJS,Computer Vision, Google Cloud Platform,AWS**
 
 - 📫 How to reach me **dridichady@gmail.com**
 
