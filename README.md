@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chadi Dridi</h1>
 <h3 align="center">A passionate Junior Full Stack Developer & DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Azure DevOps,AWS and Open Source**
+- 🔭 I’m currently working on **Azure,AWS,GCP and Open Source**
 
-- 🌱 I’m currently learning **Azure,ReactJS,Computer Vision, Google Cloud Platform,AWS**
+- 🌱 I’m currently learning **Azure,Google Cloud Platform,AWS,DevOps**
 
 - 📫 How to reach me **dridichady@gmail.com**
 
