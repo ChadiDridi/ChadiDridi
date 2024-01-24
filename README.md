@@ -11,9 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chadi-dridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chadi-dridi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19443010/dridi-chadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19443010/dridi-chadi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dridi.chadi.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dridi.chadi.1/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dridichady/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dridichady/" height="30" width="40" /></a>
-<a href="https://discord.gg/Dridi Chadi#3909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dridi Chadi#3909" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
