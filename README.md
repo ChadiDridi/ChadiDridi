@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chadi Dridi</h1>
-<h3 align="center">A passionate Junior Full Stack Developer & DevOps Engineer</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **Azure,AWS,GCP and Open Source**
 
